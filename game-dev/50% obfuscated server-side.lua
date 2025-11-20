@@ -7,7 +7,7 @@ end
 local b = Anonnyy_cant_find_function.License;
 local c = Anonnyy_cant_find_function.DiscordWebhookLink;
 
-if string.match(GetCurrentResourceName():lower(), "anti") or string.match(GetCurrentResourceName():lower(), "anonyy") or string.match(GetCurrentResourceName():lower(), "annony") or string.match(GetCurrentResourceName():lower(), "cheat") then
+--[[ if string.match(GetCurrentResourceName():lower(), "anti") or string.match(GetCurrentResourceName():lower(), "anonyy") or string.match(GetCurrentResourceName():lower(), "annony") or string.match(GetCurrentResourceName():lower(), "cheat") then
 	print("^"..math.random(1, 9).."ANNONY [-.-]^0:^1 WARNING! Rename your ANNONY [-.-] folder to something else than "..GetCurrentResourceName().." for better protection... DON'T INCLUDE `anti`,`anonyy`,`annony`, in the name^0")
 	print("^"..math.random(1, 9).."ANNONY [-.-]^0:^1 WARNING! Rename your ANNONY [-.-] folder to something else than "..GetCurrentResourceName().." for better protection... DON'T INCLUDE `anti`,`anonyy`,`annony`, in the name^0")
 	print("^"..math.random(1, 9).."ANNONY [-.-]^0:^1 WARNING! Rename your ANNONY [-.-] folder to something else than "..GetCurrentResourceName().." for better protection... DON'T INCLUDE `anti`,`anonyy`,`annony`, in the name^0")
@@ -21,7 +21,7 @@ if string.match(GetCurrentResourceName():lower(), "anti") or string.match(GetCur
 	print("^"..math.random(1, 9).."ANNONY [-.-]^0:^1 WARNING! Rename your ANNONY [-.-] folder to something else than "..GetCurrentResourceName().." for better protection... DON'T INCLUDE `anti`,`anonyy`,`annony`, in the name^0")
 	print("^"..math.random(1, 9).."ANNONY [-.-]^0:^1 WARNING! Rename your ANNONY [-.-] folder to something else than "..GetCurrentResourceName().." for better protection... DON'T INCLUDE `anti`,`anonyy`,`annony`, in the name^0")
 	print("^"..math.random(1, 9).."ANNONY [-.-]^0:^1 WARNING! Rename your ANNONY [-.-] folder to something else than "..GetCurrentResourceName().." for better protection... DON'T INCLUDE `anti`,`anonyy`,`annony`, in the name^0")
-end
+end ]]--
 
 if Anonnyy_cant_find_function.ConfigVersion ~= 10 then
 	print("^"..math.random(1, 9).."ANNONY [-.-]^0:^1 Configuration Outdated, please check on discord for updates.^0")
