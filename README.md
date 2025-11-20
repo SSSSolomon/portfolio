@@ -51,11 +51,11 @@ FiveM scripting is my strongest point — I build everything with performance an
 
 ---
 ## 📂 GitHub Repository Structure
-python/ → web scraping & automation
-game-dev/ → FiveM LUA + backend logic, anti-cheat sneak-peaks, other systems
-webpanel/ → Laravel admin panels (connected to FiveM DB)
-wordpress/ → screenshots of the actual running wordpress website (On the poorest hosting service, ever made [0.5 ghz / 800 mb ram])
-react/ → learning + projects and UI experiments
+- python/ → web scraping & automation
+- game-dev/ → FiveM LUA + backend logic, anti-cheat sneak-peaks, other systems
+- webpanel/ → Laravel admin panels (connected to FiveM DB)
+- wordpress/ → screenshots of the actual running wordpress website (On the poorest hosting service, ever made [0.5 ghz / 800 mb ram])
+- react/ → learning + projects and UI experiments
 
 ---
 ### 🔹 **WordPress Development**
