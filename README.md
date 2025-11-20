@@ -1,57 +1,90 @@
-# 👋 Hi, I'm Solomon
-### LUA Developer (FiveM) • WordPress Specialist • PHP Developer (Back-End developer) • Full Stack
- 
+# 👋 Hi, I'm Solomon  
+### LUA Developer (FiveM) • PHP Developer • Full-Stack Learner • WordPress Specialist
 
-I am a self-taught developer with strong experience in **LUA (FiveM development)**, **WordPress performance optimization**, and **custom PHP scripting**. I have built more than **20–30 custom FiveM scripts**, advanced WordPress configurations, PHP powered websites, scripts that I cannot break, neither my pals. :D
+I am a self-taught developer with strong experience in **FiveM (LUA) scripting**, **WordPress performance optimization**, **PHP Frameworks (or basic)**, and **Python automation**.  
+Throughout the years, I have built **full FiveM server systems**, **anti-cheat modules**, **admin web panels**, **custom WordPress setups**, and various automation tools.
 
-My focus is on clean, optimized, efficient code, unbreakable code and scalable systems.
+My style of development is based on:  
+**clean structure, high performance, security, stability, and unbreakable logic**.
 
 ---
-
 
 ## 🚀 Skills
-- **LUA (advanced – FiveM)**
-- **WordPress development & optimization** (LiteSpeed Cache, custom themes/plugins)
-- **PHP** (beginner–intermediate)
-- **CSS / HTML**
-- **Server optimization & Linux basics**
-- **Git & version control**
-
+- **LUA (advanced – FiveM scripting & systems development)**
+- **FiveM server development** (gameplay systems, economy, interactions, optimizations)
+- **Anti-Cheat logic** (internal/external detection concepts)
+- **PHP (backend scripting & utilities)**
+- **WordPress development** (custom themes, plugins, deep optimization)
+- **Python (webscraping & automation)**
+- **Databases I'm familiar with: MySQL / MongoDB / MariaDB**
+- **HTML / CSS**
+- **Linux basics & server management**
+- **React (currently learning)**
+- **Git / GitHub workflow**
 
 ---
-
 
 ## 📁 Featured Projects
-Below are the main projects published on my GitHub. Each project contains full documentation and examples.
 
-
-### 🔹 FiveM / LUA
-- [FiveM Vehicle Manager]
-- [FiveM Police Interaction System]
-- [FiveM Inventory & Economy System]
-
-
-### 🔹 WordPress
-- [WordPress Optimization Pack]
-- [Custom WordPress Plugin Demo]
-
-
-### 🔹 PHP
-- [PHP System Monitor (Educational Demo)
-- [Utility PHP Scripts]
-
+Below are the main highlighted areas of what I build.  
+More private projects will be made public soon.
 
 ---
 
+### 🔹 **FiveM / LUA Development**
 
+I have developed multiple systems for FiveM servers — from gameplay logic to security and admin tooling:
+
+- **Complete custom FiveM servers** (freelancing projects)  
+- **Anti-Cheat system**  
+  - Internal & external cheat detection  
+  - Behavior & pattern monitoring  
+  - Injection detection concepts  
+- **Admin WebPanels (connected to MySQL database)**  
+  - Manage players, bans, vehicles, jobs  
+  - Web → DB → Server communication  
+  - Bootstrap / Laravel based  
+- **Game Related Systems - (JS, CSS, HTML, LUA, Typescript)**
+- **Custom server-side tools & optimizations**
+
+FiveM scripting is my strongest point — I build everything with performance and security in mind.
+
+---
+## 📂 GitHub Repository Structure
+python/ → web scraping & automation
+game-dev/ → FiveM LUA + backend logic, anti-cheat sneak-peaks, other systems
+webpanel/ → Laravel admin panels (connected to FiveM DB)
+wordpress/ → screenshots of the actual running wordpress website (On the poorest hosting service, ever made [0.5 ghz / 800 mb ram])
+react/ → learning + projects and UI experiments
+
+---
+### 🔹 **WordPress Development**
+- Fully optimized sites (even on extremely weak hosting: ~0.5GHz CPU / ~800mb RAM)  
+- Custom themes & plugins  
+- Security hardening  
+- LiteSpeed optimization  
+- Live website: **special-auto.ro/**
+---
+### 🔹 **PHP Development**
+- Backend utilities  
+- Small API endpoints  
+- System monitoring tools  
+- Helper scripts & automation logic
+- Laravel (*learning*)
+---
+### 🔹 **Python Development**
+- Web scraping tools  
+- Data automation scripts  
+- Custom workflow automation
+---
+### 🔹 **React Development**
+*(Currently learning)*  
+- UI components  
+- Small experimental apps  
+- Front-end logic exercises
+---
 ## 📬 Contact
-- **Email:** ssssolomonnnn@gmail.com
-- **Discord:** 5555olomon
-- **GitHub:** https://github.com/SSSSolomon
-
-
+- **Email:** ssssolomonnnn@gmail.com  
+- **Discord:** 5555olomon  
+- **GitHub:** https://github.com/SSSSolomon  
 ---
-
-
-## 📝 Note
-This portfolio is actively being expanded. More projects will be migrated from private environments and documented here.
