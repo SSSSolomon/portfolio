@@ -10,9 +10,10 @@ My style of development is based on:
 ---
 
 ## 🚀 Skills
+- **API's Integration & Logic**
 - **LUA (advanced – FiveM scripting & systems development)**
 - **FiveM server development** (gameplay systems, economy, interactions, optimizations)
-- **Anti-Cheat logic** (internal/external detection concepts)
+- **CyberSecurity Logic [Anti-Cheat]** (internal/external detection concepts)
 - **PHP (backend scripting & utilities)**
 - **WordPress development** (custom themes, plugins, deep optimization)
 - **Python (webscraping & automation)**
